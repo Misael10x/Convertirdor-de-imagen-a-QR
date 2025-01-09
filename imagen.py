@@ -19,3 +19,4 @@ qr_img = qr.make_image(fill="black", back_color="white")
 # Guardar el QR en un archivo
 qr_img.save("codigo_qr.png")
 print("¡Código QR generado y guardado como 'codigo_qr.png'!")
+  # en este codigo realiza que una imagen desde internet y usando su liga enlazada
